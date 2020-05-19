@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/andrinmeier/hslu-iteo-uebung/_apis/build/status/andrin-meier-bmpi.pipelines-java?branchName=master)](https://dev.azure.com/andrinmeier/hslu-iteo-uebung/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
